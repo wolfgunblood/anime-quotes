@@ -1,8 +1,8 @@
 {
-  "name": "anime-quotes",
+  "name": "anime-quotes-sdk",
   "version": "1.0.0",
-  "description": "anime quotes",
-  "main": "index.js",
+  "description": "A Node.js SDK to fetch a random quote from a pre-fetched list of quotes.",
+  "main": "src/animeSDK.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
